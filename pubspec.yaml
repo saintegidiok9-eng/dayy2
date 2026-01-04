@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 name: dayy3
+=======
+name: dayy2
+>>>>>>> cdf14d7908585df5f59c56bfc2841182d3524dd9
 description: A sample command-line application.
 version: 1.0.0
 # repository: https://github.com/my_org/my_repo
